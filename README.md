@@ -1,2 +1,2 @@
 # searchAnddestroy
-Word parser and graph-tool for pdf
+Python-based word parser and graph-tool for pdfs
